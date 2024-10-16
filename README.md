@@ -1,9 +1,9 @@
 # PDF-Analyser-Using-CrewAI-
-PDF Analyser Using CrewAI 
+<b>PDF Analyser Using CrewAI</b>
 
 The  PDF Analyzer and Reporting System is a Python-based application that uses AI to analyze PDF files, perform web research, and synthesize a comprehensive analysis of the content. It extracts text from the uploaded PDF, crawls the web for relevant information, and provides a detailed final report. The application is built using Streamlit for the user interface and OpenAI for natural language processing.
 
-Features<br>
+<b>Features</b><br>
 PDF Text Extraction: Extracts text from PDF files for analysis.<br>
 Content Analysis: Uses AI to analyze the main topic, key points, audience, and tone of the PDF.<br>
 Web Research: Crawls web data related to the PDF content to provide deeper insights.<br>
